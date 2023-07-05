@@ -8,6 +8,7 @@
 .slider-container {
   display: flex;
   transition: transform 1.5s ease;
+ 
 }
 
 .img__slider {
@@ -15,6 +16,7 @@
   opacity: 0;
  width: 489px;
   height: auto;
+ 
 }
 .active_slide{
   transition: opacity 1s;
@@ -62,6 +64,9 @@ height: 325px;
 opacity: 0 ;
 
   }
+.slider{
+  width: 345px;
+}
   .active_slide{
     opacity: 1;
   }

@@ -15,7 +15,7 @@ a{
 	align-items: center;
 }
 .header__menu_logo{
-	tez
+	
 }
 .logo{
 	padding-top: 26px;
@@ -821,6 +821,8 @@ line-height: 150%;
 	}
 	.tel{
 		display: block;
+		margin-right: 15px;
+		padding-left: 0;
 	}
 	.burger{
 		width: 46px;
