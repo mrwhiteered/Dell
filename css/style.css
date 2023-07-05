@@ -293,7 +293,7 @@ z-index: 3;
 .advan__img{
 	padding-top: 187px;
 	max-width: 874px;
-	margin-right: 77px;
+	margin-right: 0px;
 	z-index: 3;
 
 }
@@ -821,7 +821,7 @@ line-height: 150%;
 	}
 	.tel{
 		display: block;
-		margin-right: 15px;
+		
 		padding-left: 0;
 	}
 	.burger{
@@ -1133,7 +1133,7 @@ font-weight: 400;
 line-height: 150%;
 }
 .contacts__right{
-	padding: 60px 30px;
+	padding: 60px 20px;
 	height: auto;
 	border-radius: unset;
 }
@@ -1263,5 +1263,11 @@ margin-bottom: 20px;
 }
 .content__slider__mainText{
 	width: 300px;
+}
+.item__header_right:last-child{
+	margin-right: 0;
+}
+.advan__img{
+	margin-right: 0;
 }
 }

@@ -60,3 +60,12 @@ line-height: 150%;
 	overflow: visible;
 	display: block;
 }
+@media (max-width: 415px){
+	.profile__container{
+		padding: 15px;
+		border-radius: 20px;
+	background: #FFF;
+	width: 375px;
+	box-sizing: border-box;
+	}
+}
